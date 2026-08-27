@@ -13,6 +13,7 @@
 | [03-methodology-consensus.md](03-methodology-consensus.md) | 预测方法论：分解法、外部/内部视角、锚定法；社区调查与共识、p(doom) 分布 |
 | [04-my-forecasts.md](04-my-forecasts.md) | 我自己的综合判断与预测（含概率） |
 | [05-notable-authors.md](05-notable-authors.md) | 知名高产作者图谱：立场、代表作、观点演变史 |
+| [beyond-lesswrong.md](beyond-lesswrong.md) | LW 之外全景：实验室掌门人、学界调查、经济学争论、预测平台、政策、中国视角、泡沫框架 |
 
 ## 一句话总览
 
