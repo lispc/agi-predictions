@@ -12,6 +12,7 @@
 | [02-takeoff-debates.md](02-takeoff-debates.md) | 起飞速度与智能爆炸：Hanson–Yudkowsky、Christiano 慢起飞、Davidson 计算中心模型、怀疑派（Chollet 等） |
 | [03-methodology-consensus.md](03-methodology-consensus.md) | 预测方法论：分解法、外部/内部视角、锚定法；社区调查与共识、p(doom) 分布 |
 | [04-my-forecasts.md](04-my-forecasts.md) | 我自己的综合判断与预测（含概率） |
+| [05-notable-authors.md](05-notable-authors.md) | 知名高产作者图谱：立场、代表作、观点演变史 |
 
 ## 一句话总览
 
