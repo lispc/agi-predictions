@@ -2,9 +2,9 @@
 
 **撰写日期：2026-08-27 | 预测窗口：2027-01 至 2032-12 | 前提：主报告情景 A（泡沫破裂，~50%）在 2026Q4-2027 兑现**
 
-> 本文是本仓库两半研究的交汇篇。金融侧（`ai-finance-bubble/`）看融资结构但不看 AGI 时间线；AGI 侧（`lesswrong-ai-futurism/`）看能力曲线但不看钱从哪来。本文同时认真看两边。核心问题：**假设主报告情景 A 兑现（AI capex 回调 40%+、OpenAI 链条重组、算力过剩），AGI 叙事如何在 2028-2032 复活并兑现？**
+> 本文是本仓库两半研究的交汇篇。金融侧（`ai-finance-bubble/`）看融资结构但不看 AGI 时间线；AGI 侧（`agi-timelines/`）看能力曲线但不看钱从哪来。本文同时认真看两边。核心问题：**假设主报告情景 A 兑现（AI capex 回调 40%+、OpenAI 链条重组、算力过剩），AGI 叙事如何在 2028-2032 复活并兑现？**
 >
-> 数据引用全部来自仓库既有文档，文内以短名标注：**主报告** = ai-bubble-scenarios-2026-08.md；**research-01 / 04 / 05** = ai-finance-bubble/research-*.md；**debt-watch** = periodic-watch/2026-08-26-us-debt-crisis-watch.md；**01-timelines / 02-takeoff / 04-my-forecasts / beyond-lw** = lesswrong-ai-futurism/ 对应文件。2000 年代电信/芯片史为分析性类比框架（外部常识），非仓库数据。
+> 数据引用全部来自仓库既有文档，文内以短名标注：**主报告** = ai-bubble-scenarios-2026-08.md；**research-01 / 04 / 05** = ai-finance-bubble/research-*.md；**debt-watch** = watch/macro/2026-08-26-us-debt-crisis-watch.md；**01-timelines / 02-takeoff / 04-my-forecasts / beyond-lw** = agi-timelines/ 对应文件。2000 年代电信/芯片史为分析性类比框架（外部常识），非仓库数据。
 
 ---
 
@@ -246,7 +246,7 @@ Capex 路径推演：2026 年 ~$725B（四大，+77%）→ 2027 年顶部 ~$600-
 | research-01 | 循环承诺 $1.15-1.4T、折旧 $176B-$1T 摆动、SPV 影子债务 | 作为 Phase A 的"出清对象清单"重新组织；提出"先减分母再追分子"的 OpenAI 重组算术 |
 | research-04 | 推理成本、METR 188 天、空置率、收入数据 | 外推至 2029：token $0.01-0.05/M、空置率 V 型、前沿收入 $300-600B 宽区间 |
 | research-05 | 2000 电信类比、中国动态、6/5 与 7/28 抛售 | 转化为结构映射表（4.3）；中国条目升格为第八节独立推演 |
-| periodic-watch/debt-watch | 利率冲击链、"逼出来的 QE"终局 | QE 成为 Phase C 的融资前提——第一次泡沫死于利率、第二次生于 QE 后的低利率 |
+| watch/macro/debt-watch | 利率冲击链、"逼出来的 QE"终局 | QE 成为 Phase C 的融资前提——第一次泡沫死于利率、第二次生于 QE 后的低利率 |
 | 01-timelines | AI Futures Model（中位 2032.5）、基准-现实差距、棘轮效应 | 提出"差距以预期塌陷方式收敛"；用 Epoch 算法效率（~3x/年）论证出清对有效算力的大部分抵消 |
 | 02-takeoff | Christiano 慢起飞"先变奇怪"、Davidson 4-6 个数量级差距 | Phase B 定位为"4 年翻倍期"的前半段；效率路线以更低成本跨越 FLOP 差距 |
 | 04-my-forecasts | 自动化研究员 2032-2033 中位、"泡沫与 AGI 为真不矛盾"、50% capex 回调 | **核心修订：条件于情景 A，中位后移至 2033-2034，P(≤2033) 从 55% 下修至 ~45-50%；P(≤2030) 与 P(≤2040) 不动**；把"50% 回调"从单点判断细化为 V/W/L 三分支 |

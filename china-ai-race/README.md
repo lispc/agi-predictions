@@ -2,7 +2,7 @@
 
 研究日期：2026-08-27。来源：华为官方演讲、工信部/国务院文件、DeepSeek/Qwen 官方文档与论文、暗涌（36kr）/晚点系/财新/财联社/观察者网等中文一手源，辅以 RAND/Epoch/Stanford HAI/TIME 等英文源交叉校验。
 
-**定位：中美 AI 竞赛是本仓库两大主题——AGI 时间线（lesswrong-ai-futurism）与 AI 泡沫（ai-finance-bubble）——的共同变量。英文世界（LessWrong/西方投行）系统性低估中国：时间线讨论几乎不含中国变量，泡沫讨论把中国当 footnote。本目录用中文一手源做差异化覆盖。**
+**定位：中美 AI 竞赛是本仓库两大主题——AGI 时间线（agi-timelines）与 AI 泡沫（ai-finance-bubble）——的共同变量。英文世界（LessWrong/西方投行）系统性低估中国：时间线讨论几乎不含中国变量，泡沫讨论把中国当 footnote。本目录用中文一手源做差异化覆盖。**
 
 ## 文件结构
 
@@ -28,7 +28,7 @@
 
 - [ai-finance-bubble/research-05 第五节](../ai-finance-bubble/research-05-bubble-analogs-warnings-triggers.md)：美股视角的昇腾扩产/DeepSeek V4/字节订单冲击——本目录 01/02 篇从中国一侧补全。
 - [ai-finance-bubble/research-03](../ai-finance-bubble/research-03-macro-rates-fx-policy.md)：人民币 +3.5%、USD/CNY 6.75——03 篇市场含义引用。
-- [lesswrong-ai-futurism/beyond-lesswrong.md 第八节](../lesswrong-ai-futurism/beyond-lesswrong.md)：中国视角简述——02 篇展开谱系与一手访谈。
+- [agi-timelines/beyond-lesswrong.md 第八节](../agi-timelines/beyond-lesswrong.md)：中国视角简述——02 篇展开谱系与一手访谈。
 
 ## 数据可信度总注
 

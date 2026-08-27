@@ -1,6 +1,6 @@
 # 中国 AI 竞赛专题 2：模型与生态（2026-08-27）
 
-研究日期：2026-08-27。与 lesswrong-ai-futurism/beyond-lesswrong.md 第八节衔接（该节为中国视角简述，本篇展开谱系、数据与一手观点）。
+研究日期：2026-08-27。与 agi-timelines/beyond-lesswrong.md 第八节衔接（该节为中国视角简述，本篇展开谱系、数据与一手观点）。
 
 ## 一、DeepSeek 谱系：效率路线的技术论证
 

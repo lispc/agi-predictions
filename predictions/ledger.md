@@ -1,7 +1,7 @@
 # 预测登记簿（Prediction Ledger）
 
-> 创建：2026-08-27 ｜ 维护：本仓库研究代理 ｜ 登记范围：`lesswrong-ai-futurism/` 与 `ai-finance-bubble/` 全部文档中的可辨认预测
-> 文档别名（来源列用）：**04**＝04-my-forecasts.md；**01**＝01-timelines.md；**02**＝02-takeoff-debates.md；**03**＝03-methodology-consensus.md；**05**＝05-notable-authors.md；**beyond**＝beyond-lesswrong.md；**bubble**＝ai-finance-bubble/ai-bubble-scenarios-2026-08.md；**watch**＝ai-finance-bubble/periodic-watch/2026-08-26-us-debt-crisis-watch.md
+> 创建：2026-08-27 ｜ 维护：本仓库研究代理 ｜ 登记范围：`agi-timelines/` 与 `ai-finance-bubble/` 全部文档中的可辨认预测
+> 文档别名（来源列用）：**04**＝04-my-forecasts.md；**01**＝01-timelines.md；**02**＝02-takeoff-debates.md；**03**＝03-methodology-consensus.md；**05**＝05-notable-authors.md；**beyond**＝beyond-lesswrong.md；**bubble**＝ai-finance-bubble/ai-bubble-scenarios-2026-08.md；**watch**＝watch/macro/2026-08-26-us-debt-crisis-watch.md
 
 ## 0. 用途与计分规则
 
