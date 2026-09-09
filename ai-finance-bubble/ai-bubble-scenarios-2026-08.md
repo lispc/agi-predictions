@@ -60,7 +60,7 @@
 - 表外结构：Meta Hyperion 项目与 Blue Owl 的 ~270 亿 SPV（PIMCO 锚定），项目总成本已扩至 500 亿+；科技巨头表外"影子债务"累计约 1,200 亿
 
 **循环交易（以 OpenAI 为枢纽，名义总额 ~1.15-1.4 万亿美元）：**
-- Nvidia→OpenAI：最高 1,000 亿投资意向（注：至 2026-03 仍非约束性协议）
+- Nvidia→OpenAI：最高 1,000 亿投资意向（注：至 2026-03 仍非约束性协议；**2026-09-09 补录**：2026-03-04 黄仁勋称 $100B "probably not in the cards"，已改为敲定 300 亿投资——循环承诺名义总额相应缩至 ~1.08 万亿，结构判断不变，见 research-01 §3）
 - OpenAI→Oracle：3,000 亿/5 年云合同（Oracle RPO 6,380 亿中约 3,000 亿来自 OpenAI）
 - OpenAI→Microsoft：2,500 亿 Azure 承诺
 - OpenAI–AMD：6GW 部署 + 1.6 亿股低价认股权证；OpenAI–Broadcom：10GW 定制芯片（估 ~3,500 亿）

@@ -9,6 +9,7 @@
 - **NSA**（2025-02，arXiv 2502.11089）：原生可训练的稀疏注意力，64k 长文本训练加速——为 V4 的长上下文铺路，硬件对齐（面向国产芯片优化）是明示目标。
 - **V4**（2026-02 旗舰，2026-04-24 Preview/Flash）：总参数约 1–1.6T MoE（腾讯云技术解析称 1.6T、每 token 仅激活约 49B/3%；另有 1T 口径，**官方技术报告未完全确认，冲突并列**）；注意力采用 **CSA（压缩稀疏）+HCA（高度压缩）混合方案**，是 NSA/DSA 谱系的演进，实现原生 1M token 上下文；推理效率提升 3.7 倍、KV Cache 内存仅前代 10%；原生多模态（文本/图像/视频统一）。[DeepSeek 官方 API 文档](https://api-docs.deepseek.com/news/news260424)；[腾讯云技术解析， 2026](https://cloud.tencent.com/developer/article/2661839)；[arXiv 2606.19348](https://arxiv.org/html/2606.19348v1)
 - **成本与定价**（官方口径）：V4-Flash 输入/输出约 $0.14–0.28/百万 token，V4-Pro 输入约 $1.74/百万 token；引入**高峰/空闲分时定价**（空闲半价）。训练成本估计约 1000 万美元级（自媒体口径，无法独立验证）。观察者网：V4-Pro 当前价格受高端算力产能限制属"过渡价"，**昇腾 950 下半年量产后将进一步降价**。[观察者网， 2026-04-24](https://www.guancha.cn/economy/2026/04_24_814819.shtml)
+  - **2026-09-09 更新**：上述"量产后降价"预期**已被推翻**——V4-Pro 正式版 2026-08-14 全平台上线（DeepSWE 62.7、100 万上下文，并 MIT 开源 Harness v0.1 agent 框架），**8 月 17 日起 V4-Flash/V4-Pro API 涨价**（官方称"涨幅较大"，保留峰谷计价）——"算力紧缺"论据的强化证据。另：V4-Flash-Vision-Exp 8 月 16 日上线 API；DeepSeek V5"9 月发布"仅为社交媒体传言，无官方证据。[虎嗅， 2026-08-13](https://www.huxiu.com/article/4882930.html)；[澎湃， 2026-08-31](https://m.thepaper.cn/newsDetail_forward_33787374)；[DeepSeek API changelog](https://api-docs.deepseek.com/updates/)（聚合源，中可信度）
 - V4 首日同步支持 Nvidia H200 与华为昇腾 950（"零日适配"）——两条腿走路的公开信号（见 research-05 第五节，原始信源可信度偏低但与官方算力合作方向一致）。
 - 用量佐证：全球大模型 Token 消耗周榜，DeepSeek V4 Flash 以 3.11 万亿/周居首、腾讯混元 Hy3 3.03 万亿居次。[财经号转述， 2026（中等可信度）](http://mp.cnfol.com/57825/article/1780728846-142473601.html)
 
@@ -39,13 +40,13 @@
 - 平台级事实：过去一年 Hugging Face 上 **41% 的大模型下载量来自中国研发的模型**。[21 财经/HF 报告， 2026-04-28](https://www.21jingji.com/article/20260428/herald/2ef5054759ae8327b58cc3f66737a90a.html)
 - C 端：千问 App 月活 1.62 亿（同比 +53 倍），与豆包 3.68 亿、DeepSeek 1.27 亿构成三强。[钛媒体， 2026](https://www.tmtpost.com/8030988.html)
 - 支撑投入：阿里 2025-02 宣布三年 3800 亿元 AI 基建 capex 计划（公司财报口径），是 Qwen 谱系的算力底座——开源霸权背后是全中国最大的民营 capex 计划。
-- 最新迭代：Qwen3.8-27B 开源两天下载破百万次、登顶 HF 趋势榜；媒体以"当封锁成了广告"为题报道美国限制反向放大 Qwen 国际关注度。[IT 之家， 2026]（注："Qwen4"之名未见官方发布信息，最新确证型号为 Qwen3.8 系）
+- 最新迭代：Qwen3.8-27B 开源两天下载破百万次、登顶 HF 趋势榜；媒体以"当封锁成了广告"为题报道美国限制反向放大 Qwen 国际关注度。[IT 之家， 2026]（注："Qwen4"之名未见官方发布信息，最新确证型号为 Qwen3.8 系；**2026-09-09 更新**：Qwen3.8-Max-0902 于 9 月 2 日发布，编码与多工具 agent 能力增强——9 月 2–3 日与 Anthropic/Meta/Google 同日发旗舰更新。[Qwen 官方 changelog, 2026-09-02](https://platform.qianwenai.com/docs/changelog/models)；[财新, 2026-09-03](https://www.caixin.com/2026-09-03/102481328.html)）
 
 ## 四、其他玩家 2026 年状态
 
-- **字节豆包**：日均 token 调用 2025-12 为 50 万亿（全球仅次于 OpenAI）→ 2026-06 发布豆包 2.1 时达 **180 万亿/日**（半年 3.6 倍），AI 视频生成是主要增量；模型业务 ARR 约 40 亿美元。[中国企业家， 2026](http://www.iceo.com.cn/article/26dec6cb-0cf5-45de-95b2-fa92f80747df)；[证券时报， 2026-06](https://stcn.com/article/detail/3975661.html)
-- **腾讯混元**：Hy3 Preview 进入全球 token 周榜第二；价格战降幅最高 87.5%；第三方评测中与 DeepSeek/千问/GLM 仍有差距。[中国经济网， 2026-03](http://www.ce.cn/cysc/newmain/yc/jsxw/202603/t20260319_2838230.shtml)
-- **"六小龙"分化**：智谱 2026-01-08 港交所上市（发行价 116.2 港元、市值约 511 亿港元），MiniMax 2026-01-09 紧随——**国内首批上市大模型公司**；月之暗面冲刺 IPO，K3 计划"等效 FLOPs 提升至少一个数量级"；阶跃星辰冲刺 IPO（侧重与硬件厂商合作）；百川转型医疗；零一万物放弃基座预训练。[财联社， 2026](https://www.cls.cn/detail/2261034)；[钛媒体， 2026](https://www.tmtpost.com/7859376.html)
+- **字节豆包**：日均 token 调用 2025-12 为 50 万亿（全球仅次于 OpenAI）→ 2026-06 发布豆包 2.1 时达 **180 万亿/日**（半年 3.6 倍），AI 视频生成是主要增量；模型业务 ARR 约 40 亿美元。[中国企业家， 2026](http://www.iceo.com.cn/article/26dec6cb-0cf5-45de-95b2-fa92f80747df)；[证券时报， 2026-06](https://stcn.com/article/detail/3975661.html)。**2026-09-09 补充**：字节跳动获 **296 亿美元贷款**，豆包/Dola 为 2026 年投入重中之重。[财新， 2026-09-07](https://www.caixin.com/2026-09-07/102482532.html)
+- **腾讯混元**：Hy3 Preview 进入全球 token 周榜第二；价格战降幅最高 87.5%；第三方评测中与 DeepSeek/千问/GLM 仍有差距。[中国经济网， 2026-03](http://www.ce.cn/cysc/newmain/yc/jsxw/202603/t20260319_2838230.shtml)。**2026-09-09 补充**：8 月 28 日发布并开源 Hy4 preview（770B 总参/激活 49B、>1M 上下文）。[财新 GPT 周报， 2026-08-31](https://www.caixin.com/2026-08-31/102479969.html)
+- **"六小龙"分化**：智谱 2026-01-08 港交所上市（发行价 116.2 港元、市值约 511 亿港元），MiniMax 2026-01-09 紧随——**国内首批上市大模型公司**；月之暗面冲刺 IPO，**K3 已于 2026-07-16 发布**（2.8T 开源权重、1M 上下文；"等效 FLOPs 提升至少一个数量级"目标兑现度待评）——6 月白宫科技顾问 Kratsios 公开指控 Moonshot 蒸馏 Anthropic Fable 训练 K3（[Taskade, 2026-07-23](https://www.taskade.com/blog/moonshot-kimi-history)；[Reuters 2026-09-04 回顾](https://www.internazionale.it/ultime-notizie-reuters/2026/09/04/exclusive-us-china-gear-up-for-mid-september-ai-safety-dialogue)）；阶跃星辰冲刺 IPO（侧重与硬件厂商合作）；百川转型医疗；零一万物放弃基座预训练。[财联社， 2026](https://www.cls.cn/detail/2261034)；[钛媒体， 2026](https://www.tmtpost.com/7859376.html)
 - 上市后表现分化："智谱狂飙、MiniMax 失速"——同一赛道、两种商业模式（to B/G vs to C）在资本市场得到截然不同的定价。[财联社， 2026]
 - **价格战**：2026 年国内七大旗舰模型定价区间 0.075 元～27 元/百万 token（跨度 360 倍），腾讯混元降幅最高 87.5%；DeepSeek 的分时定价（空闲半价）是"以电价思维卖 token"的行业首创。[中国经济网， 2026-03](http://www.ce.cn/cysc/newmain/yc/jsxw/202603/t20260319_2838230.shtml)；[腾讯云开发者社区对比， 2026](https://developer.cloud.tencent.com/article/2685603)
 - DeepSeek 本身不融资、未上市；"估值 450 亿美元"为市场传闻口径（低可信度）。
