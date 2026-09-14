@@ -16,6 +16,7 @@
 | [04-my-forecasts.md](04-my-forecasts.md) | 我方综合判断与预测（含概率；权威登记在 predictions/ledger.md） |
 | [05-notable-authors.md](05-notable-authors.md) | 知名高产作者图谱：立场、代表作、观点演变史 |
 | [06-pdoom-decomposition.md](06-pdoom-decomposition.md) | p(doom) 灾难通道分解：12% ＝ 错齐 7.0 + 生物滥用 2.5 + AI 战争 1.5 + 渐进失权 0.7 + 其他 0.3（pp）；起飞形态→条件 p(doom) 桥表；外部锚（Ord 总表、Carlsmith、掌门人新引、Metaculus 直查） |
+| [07-reading-log.md](07-reading-log.md) | 阅读日志：外部文章三级分诊吸收（可证伪→ledger EXT／世界观位移→日志／纯好文→不收），协议见根目录 AGENTS.md |
 | [beyond-lesswrong.md](beyond-lesswrong.md) | LW 之外全景：实验室掌门人、学界调查、经济学争论、预测平台、政策、中国视角、泡沫框架 |
 
 ## 一句话总览
