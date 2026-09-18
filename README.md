@@ -7,7 +7,7 @@
 | 目录 | 内容 | 起点 |
 |---|---|---|
 | **agi-timelines/** | AGI 时间线与起飞话语研究：LW 圈内（时间线、起飞辩论、方法论、我方预测、作者图谱）+ LW 之外全景（实验室掌门人、学界调查、经济学争论、预测平台、政策、中国视角、泡沫框架） | [README](agi-timelines/README.md) |
-| **ai-finance-bubble/** | AI 资本周期分析：泡沫情景推演主报告（长期维护，概率镜像 ledger OUR-025–027）+ `raw-reports/` 下 5 篇事实底稿（2026-08-21 冻结快照）+ `crash-dynamics/` 破灭动力学系列（2000 科网 / 2008 次贷解剖、急性破裂一般规律含中国 2015、AI 泡沫编年史虚构推演） | [ai-bubble-scenarios.md](ai-finance-bubble/ai-bubble-scenarios.md) |
+| **ai-finance-bubble/** | AI 资本周期分析：泡沫情景推演主报告（长期维护，概率镜像 ledger OUR-025–027）+ `raw-reports/` 下 5 篇事实底稿（2026-08-21 冻结快照）+ `crash-dynamics/` 破灭动力学系列（2000 科网 / 2008 次贷解剖、急性破裂一般规律含中国 2015、AI 泡沫编年史虚构推演）+ `debt-web/` 债务结构深挖（总量三层图、到期墙、或有担保法律强度、最终持有人图谱、抵押品回收率、私募信贷估值纪律、传染路径图与债务仪表盘） | [ai-bubble-scenarios.md](ai-finance-bubble/ai-bubble-scenarios.md) |
 | **watch/** | 观察三刊：`capability/`（METR 基准、模型与收入、capex、预测市场，月度）+ `macro/`（美债、利率、流动性，月度）+ `bio/`（AI×生物安全，季度、2026-10 创刊）——互相校准泡沫情景与时间线概率 | [capability 首期 8/27](watch/capability/2026-08-27-ai-timeline-watch.md) ｜ [capability 第二期 9/9](watch/capability/2026-09-09-ai-timeline-watch.md) ｜ [macro 美债观察 8/26](watch/macro/2026-08-26-us-debt-crisis-watch.md) ｜ [Jackson Hole 重估 8/31](watch/macro/2026-08-31-jackson-hole-review.md) ｜ [macro 9 月刊 9/9](watch/macro/2026-09-09-september-macro-watch.md) ｜ [FOMC 加息重估 9/17](watch/macro/2026-09-17-fomc-hike-review.md) ｜ [暂停争论事件笔记 9/17](watch/capability/2026-09-17-pause-debate-note.md) |
 | **scenarios/** | 跨域整合推演：金融周期 × AGI 时间线的多年期情景 | [穿过泡沫的 AGI 路径 2027-2032](scenarios/agi-through-the-bubble-2027-2032.md) |
 | **china-ai-race/** | 中美 AI 竞赛：算力/芯片、模型/生态、电力/政策/市场——用中文一手源补英文世界的盲区 | [README](china-ai-race/README.md) |
