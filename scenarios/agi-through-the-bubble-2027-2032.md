@@ -4,7 +4,7 @@
 
 > 本文是本仓库两半研究的交汇篇。金融侧（`ai-finance-bubble/`）看融资结构但不看 AGI 时间线；AGI 侧（`agi-timelines/`）看能力曲线但不看钱从哪来。本文同时认真看两边。核心问题：**假设主报告情景 A 兑现（AI capex 回调 40%+、OpenAI 链条重组、算力过剩），AGI 叙事如何在 2028-2032 复活并兑现？**
 >
-> 数据引用全部来自仓库既有文档，文内以短名标注：**主报告** = ai-bubble-scenarios-2026-08.md；**research-01 / 04 / 05** = ai-finance-bubble/research-*.md；**debt-watch** = watch/macro/2026-08-26-us-debt-crisis-watch.md；**01-timelines / 02-takeoff / 04-my-forecasts / beyond-lw** = agi-timelines/ 对应文件。2000 年代电信/芯片史为分析性类比框架（外部常识），非仓库数据。
+> 数据引用全部来自仓库既有文档，文内以短名标注：**主报告** = ai-finance-bubble/ai-bubble-scenarios.md（初稿名 ai-bubble-scenarios-2026-08.md）；**research-01 / 04 / 05** = ai-finance-bubble/raw-reports/2026-08-21-*.md（原名 research-0x-*.md）；**debt-watch** = watch/macro/2026-08-26-us-debt-crisis-watch.md；**01-timelines / 02-takeoff / 04-my-forecasts / beyond-lw** = agi-timelines/ 对应文件。2000 年代电信/芯片史为分析性类比框架（外部常识），非仓库数据。
 
 ---
 
@@ -242,7 +242,7 @@ Capex 路径推演：2026 年 ~$725B（四大，+77%）→ 2027 年顶部 ~$600-
 
 | 文档 | 本文继承 | 本文修改/扩展 |
 |---|---|---|
-| ai-bubble-scenarios-2026-08（主报告） | A/B/C=50/20/30、Phase 0-3 事件序列、全部金融数据 | **把 Phase 3 末尾一句话（"算力过剩=推理成本暴跌=黄金时代"）扩展为完整的 Phase A/B/C 五年推演**；不改任何 12 个月窗口内的概率与判断 |
+| ai-bubble-scenarios（主报告） | A/B/C=50/20/30、Phase 0-3 事件序列、全部金融数据 | **把 Phase 3 末尾一句话（"算力过剩=推理成本暴跌=黄金时代"）扩展为完整的 Phase A/B/C 五年推演**；不改任何 12 个月窗口内的概率与判断 |
 | research-01 | 循环承诺 $1.15-1.4T、折旧 $176B-$1T 摆动、SPV 影子债务 | 作为 Phase A 的"出清对象清单"重新组织；提出"先减分母再追分子"的 OpenAI 重组算术 |
 | research-04 | 推理成本、METR 188 天、空置率、收入数据 | 外推至 2029：token $0.01-0.05/M、空置率 V 型、前沿收入 $300-600B 宽区间 |
 | research-05 | 2000 电信类比、中国动态、6/5 与 7/28 抛售 | 转化为结构映射表（4.3）；中国条目升格为第八节独立推演 |

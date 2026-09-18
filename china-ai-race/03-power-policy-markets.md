@@ -1,6 +1,6 @@
 # 中国 AI 竞赛专题 3：电力、政策与市场含义（2026-08-27）
 
-研究日期：2026-08-27。与 ai-finance-bubble/research-03（人民币 +3.5%、USD/CNY 6.75）、research-05（电力优势简述）衔接。本篇把电力、政策与市场三条线合起来，给出"缩小 vs 夸大"的平衡评估。
+研究日期：2026-08-27。与 ai-finance-bubble/raw-reports/2026-08-21-macro-rates-fx-policy.md（人民币 +3.5%、USD/CNY 6.75）、2026-08-21-bubble-analogs-warnings-triggers.md（电力优势简述）衔接。本篇把电力、政策与市场三条线合起来，给出"缩小 vs 夸大"的平衡评估。
 
 ## 一、电力：中国最硬的结构性优势
 

@@ -26,8 +26,8 @@
 
 ## 与其他目录的衔接
 
-- [ai-finance-bubble/research-05 第五节](../ai-finance-bubble/research-05-bubble-analogs-warnings-triggers.md)：美股视角的昇腾扩产/DeepSeek V4/字节订单冲击——本目录 01/02 篇从中国一侧补全。
-- [ai-finance-bubble/research-03](../ai-finance-bubble/research-03-macro-rates-fx-policy.md)：人民币 +3.5%、USD/CNY 6.75——03 篇市场含义引用。
+- [ai-finance-bubble/research-05 第五节](../ai-finance-bubble/raw-reports/2026-08-21-bubble-analogs-warnings-triggers.md)：美股视角的昇腾扩产/DeepSeek V4/字节订单冲击——本目录 01/02 篇从中国一侧补全。
+- [ai-finance-bubble/research-03](../ai-finance-bubble/raw-reports/2026-08-21-macro-rates-fx-policy.md)：人民币 +3.5%、USD/CNY 6.75——03 篇市场含义引用。
 - [agi-timelines/beyond-lesswrong.md 第八节](../agi-timelines/beyond-lesswrong.md)：中国视角简述——02 篇展开谱系与一手访谈。
 
 ## 数据可信度总注

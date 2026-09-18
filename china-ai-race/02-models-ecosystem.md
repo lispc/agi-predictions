@@ -5,7 +5,7 @@
 ## 一、DeepSeek 谱系：效率路线的技术论证
 
 - **V3**（2024-12）：MLA（多头潜在注意力）+ MoE（细粒度专家+共享专家隔离），官方口径训练成本约 557.6 万美元（2048 卡 H800、预训练阶段），是"效率 scaling"反命题的起点；V2 的 API 定价曾引发中国大模型价格战。论文：[arXiv 2412.19437](https://arxiv.org/abs/2412.19437)
-- **R1**（2025-01）：纯 RL（GRPO）驱动推理能力涌现，R1-Zero 证明推理可不经 SFT 冷启动直接从 RL 获得；开源权重 + MIT 协议；MIT 复现成本约 30 美元（s1 论文口径）引爆"低成本推理"叙事；2025-01-27 引发 Nvidia 史诗级抛售（见 ai-finance-bubble/research-05）。
+- **R1**（2025-01）：纯 RL（GRPO）驱动推理能力涌现，R1-Zero 证明推理可不经 SFT 冷启动直接从 RL 获得；开源权重 + MIT 协议；MIT 复现成本约 30 美元（s1 论文口径）引爆"低成本推理"叙事；2025-01-27 引发 Nvidia 史诗级抛售（见 ai-finance-bubble/raw-reports/2026-08-21-bubble-analogs-warnings-triggers.md）。
 - **NSA**（2025-02，arXiv 2502.11089）：原生可训练的稀疏注意力，64k 长文本训练加速——为 V4 的长上下文铺路，硬件对齐（面向国产芯片优化）是明示目标。
 - **V4**（2026-02 旗舰，2026-04-24 Preview/Flash）：总参数约 1–1.6T MoE（腾讯云技术解析称 1.6T、每 token 仅激活约 49B/3%；另有 1T 口径，**官方技术报告未完全确认，冲突并列**）；注意力采用 **CSA（压缩稀疏）+HCA（高度压缩）混合方案**，是 NSA/DSA 谱系的演进，实现原生 1M token 上下文；推理效率提升 3.7 倍、KV Cache 内存仅前代 10%；原生多模态（文本/图像/视频统一）。[DeepSeek 官方 API 文档](https://api-docs.deepseek.com/news/news260424)；[腾讯云技术解析， 2026](https://cloud.tencent.com/developer/article/2661839)；[arXiv 2606.19348](https://arxiv.org/html/2606.19348v1)
 - **成本与定价**（官方口径）：V4-Flash 输入/输出约 $0.14–0.28/百万 token，V4-Pro 输入约 $1.74/百万 token；引入**高峰/空闲分时定价**（空闲半价）。训练成本估计约 1000 万美元级（自媒体口径，无法独立验证）。观察者网：V4-Pro 当前价格受高端算力产能限制属"过渡价"，**昇腾 950 下半年量产后将进一步降价**。[观察者网， 2026-04-24](https://www.guancha.cn/economy/2026/04_24_814819.shtml)
