@@ -10,9 +10,9 @@
 | **ai-finance-bubble/** | AI 资本周期分析：泡沫情景推演主报告（长期维护，概率镜像 ledger OUR-025–027）+ `raw-reports/` 下 5 篇事实底稿（2026-08-21 冻结快照）+ `crash-dynamics/` 破灭动力学系列（2000 科网 / 2008 次贷解剖、急性破裂一般规律含中国 2015、AI 泡沫编年史虚构推演）+ `debt-web/` 债务结构深挖（总量三层图、到期墙、或有担保法律强度、最终持有人图谱、抵押品回收率、私募信贷估值纪律、传染路径图与债务仪表盘） | [ai-bubble-scenarios.md](ai-finance-bubble/ai-bubble-scenarios.md) |
 | **watch/** | 观察三刊：`capability/`（METR 基准、模型与收入、capex、预测市场，月度）+ `macro/`（美债、利率、流动性，月度）+ `bio/`（AI×生物安全，季度、2026-10 创刊）——互相校准泡沫情景与时间线概率 | [capability 首期 8/27](watch/capability/2026-08-27-ai-timeline-watch.md) ｜ [capability 第二期 9/9](watch/capability/2026-09-09-ai-timeline-watch.md) ｜ [macro 美债观察 8/26](watch/macro/2026-08-26-us-debt-crisis-watch.md) ｜ [Jackson Hole 重估 8/31](watch/macro/2026-08-31-jackson-hole-review.md) ｜ [macro 9 月刊 9/9](watch/macro/2026-09-09-september-macro-watch.md) ｜ [FOMC 加息重估 9/17](watch/macro/2026-09-17-fomc-hike-review.md) ｜ [暂停争论事件笔记 9/17](watch/capability/2026-09-17-pause-debate-note.md) |
 | **scenarios/** | 跨域整合推演：金融周期 × AGI 时间线的多年期情景 | [穿过泡沫的 AGI 路径 2027-2032](scenarios/agi-through-the-bubble-2027-2032.md) |
-| **china-ai-race/** | 中美 AI 竞赛：算力/芯片、模型/生态、电力/政策/市场——用中文一手源补英文世界的盲区 | [README](china-ai-race/README.md) |
+| **china-ai-race/** | 中美 AI 竞赛：算力/芯片、EUV 光刻、模型/生态、电力/政策/市场——用中文一手源补英文世界的盲区 | [README](china-ai-race/README.md) |
 | **ai-bio-risk/** | **AI 生物安全风险**：uplift 证据曲线（01）、实验室阈值框架触及史（02）、治理的美欧英国际中四轨（03）、威胁基率与自然疫情基线面（04）、我方预测与 p(doom) 生物通道分解（05）——与起飞叙事正交的灾难通道 | [README](ai-bio-risk/README.md) |
-| **predictions/** | **预测登记簿**：全仓库概率的唯一权威登记处，OUR/EXT/CHK 编号 + Brier 计分 + 季度校准协议 | [ledger.md](predictions/ledger.md) |
+| **predictions/** | **预测登记簿**：全仓库概率的唯一权威登记处，OUR/EXT/CHK 编号 + Brier 计分 + 季度校准协议；2026-09-26 起为主簿（规则＋修订历史）＋agi/finance/bio 三分簿 | [ledger.md](predictions/ledger.md) |
 
 ## 工作流
 
@@ -37,6 +37,6 @@ watch/capability/（能力侧） + watch/macro/（宏观侧）—— 月度；wa
 
 ## 约定
 
-- 所有预测性数字登记入 `predictions/ledger.md`，其他文档不单独维护概率。
+- 所有预测性数字登记入 `predictions/ledger.md` 及其分簿，其他文档不单独维护概率。
 - 数据标注来源与日期；低可信度来源显式标注；口径冲突并列呈现。
 - 我方预测署名 GLM-5.3（研究代理）；季度校准回顾每年 10 月首周执行。

@@ -1,6 +1,6 @@
 # 05 · 我方预测：AI×生物安全（2026-09-11）
 
-作者：GLM-5.3（本仓库研究代理）。基于 01–04 的研究消化＋自己的综合判断。所有概率为主观 credence，权威登记在 [predictions/ledger.md](../predictions/ledger.md)（OUR-047 起）；本文件的概率表述不单独维护。
+作者：GLM-5.3（本仓库研究代理）。基于 01–04 的研究消化＋自己的综合判断。所有概率为主观 credence，权威登记在 [predictions/ledger-bio.md](../predictions/ledger-bio.md)（OUR-047 起）；本文件的概率表述不单独维护。
 
 ## 总体立场
 

@@ -14,7 +14,7 @@
 | [02-lab-thresholds.md](02-lab-thresholds.md) | 实验室侧：RSP/Preparedness/FSF 三家阈值框架对照（档位定义原文＋译述）、版本史与修订方向、生物档位触及事件史（ASL-3 首启→"预防性按 High 处理"→威胁情报报告）、官方评估机构（CAISI/AISA） |
 | [03-governance.md](03-governance.md) | 治理侧：美（EO 14110 生死→EO 14292/AI Action Plan/S.3741 筛查立法）、EU AI Act、英国、国际（BWC 十审≤2027）、中国（生物安全法＋两用物项＋NMPA AI 医药轨道，中文一手源）——总形状：治理重心从模型侧移向材料侧 |
 | [04-threat-base-rates.md](04-threat-base-rates.md) | 威胁面与基率：既有量化分层（Ord/XPT/Sandberg-Bostrom/Millett）、历史"三连败"（奥姆/炭疽信/Rajneeshee）、Metaculus 直查快照（含 Q38589 ASL-4 时点）、自然疫情基线面（H5N1 现状/防御基线）、AI 监测净效应 |
-| [05-forecasts.md](05-forecasts.md) | 我方预测：A 阈值评估/B 治理/C 事件/D p(doom) 生物分解（~2.5pp，不双重计分）＋三情景（α 防线粘住 45%/β 灰色侵蚀 35%/γ 门槛击穿 20%）；权威登记在 [predictions/ledger.md](../predictions/ledger.md) OUR-047+ |
+| [05-forecasts.md](05-forecasts.md) | 我方预测：A 阈值评估/B 治理/C 事件/D p(doom) 生物分解（~2.5pp，不双重计分）＋三情景（α 防线粘住 45%/β 灰色侵蚀 35%/γ 门槛击穿 20%）；权威登记在 [predictions/ledger-bio.md](../predictions/ledger-bio.md) OUR-047+ |
 
 ## 核心论点（约 400 字）
 
@@ -34,7 +34,7 @@
 - [agi-timelines/04-my-forecasts.md §D](../agi-timelines/04-my-forecasts.md)：p(doom) 12% 与 OUR-019（风险集中起飞阶段 0.70）——本目录 05 §D 做通道分解并标注张力（OUR-057）。
 - [watch/capability](../watch/capability/2026-09-09-ai-timeline-watch.md)：GPT-6 Astra 首触 PF Critical（网络域）是 02 的对照锚；HF 失控事件链与 OUR-020 的"失控"叙事在生物域的对应物是威胁情报报告。
 - [china-ai-race](../china-ai-race/README.md)：中国生物安全立法体系与 BWC 立场（赞成核查、美国反对）是 03 §六的主题；后续 watch/bio 应核查中国头部模型商有无 RSP 类框架。
-- [predictions/ledger.md](../predictions/ledger.md)：OUR-047~060、EXT-071~080、CHK-020~028 的唯一权威登记处。
+- [predictions/ledger-bio.md](../predictions/ledger-bio.md)：OUR-047~060、EXT-071~080、CHK-020~028 的唯一权威登记处（规则与修订历史在主簿 [ledger.md](../predictions/ledger.md)）。
 
 ## 数据可信度总注
 

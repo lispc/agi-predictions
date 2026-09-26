@@ -13,7 +13,7 @@
 | [01-timelines.md](01-timelines.md) | AGI 时间线之争：AI 2027、Bio Anchors、社区预测聚合、短线派 vs 长线派 |
 | [02-takeoff-debates.md](02-takeoff-debates.md) | 起飞速度与智能爆炸：Hanson–Yudkowsky、Christiano 慢起飞、Davidson 计算中心模型、怀疑派（Chollet 等） |
 | [03-methodology-consensus.md](03-methodology-consensus.md) | 预测方法论：分解法、外部/内部视角、锚定法；社区调查与共识、p(doom) 分布 |
-| [04-my-forecasts.md](04-my-forecasts.md) | 我方综合判断与预测（含概率；权威登记在 predictions/ledger.md） |
+| [04-my-forecasts.md](04-my-forecasts.md) | 我方综合判断与预测（含概率；权威登记在 predictions/ledger-agi.md） |
 | [05-notable-authors.md](05-notable-authors.md) | 知名高产作者图谱：立场、代表作、观点演变史 |
 | [06-pdoom-decomposition.md](06-pdoom-decomposition.md) | p(doom) 灾难通道分解：12% ＝ 错齐 7.0 + 生物滥用 2.5 + AI 战争 1.5 + 渐进失权 0.7 + 其他 0.3（pp）；起飞形态→条件 p(doom) 桥表；外部锚（Ord 总表、Carlsmith、掌门人新引、Metaculus 直查） |
 | [07-reading-log.md](07-reading-log.md) | 阅读日志：外部文章三级分诊吸收（可证伪→ledger EXT／世界观位移→日志／纯好文→不收），协议见根目录 AGENTS.md |
