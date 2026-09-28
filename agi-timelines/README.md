@@ -2,7 +2,7 @@
 
 > 本目录前身为 `lesswrong-ai-futurism`（2026-08-27 更名）——研究从 LessWrong 圈内话语起步，后扩展到圈外全景与我们自己的预测，故按主题重新命名。内容谱系未变。
 
-研究日期：2026-08-27。来源：lesswrong.com 及相关站点（ai-2027.com、AI Impacts、Open Philanthropy/Forethought、Metaculus 等），以及圈外信源（实验室博客、学术调查、投行研究、预测平台）。
+研究日期：2026-08-27。来源：lesswrong.com 及相关站点（ai-2027.com、AI Impacts、Open Philanthropy/Forethought、Metaculus 等），以及圈外信源（实验室博客、学术调查、投行研究、预测平台）——完整追踪信源清单见 [08-sources-index.md](08-sources-index.md)（2026-09-28 建）。
 
 主题：AI / AGI / ASI / RSI / takeoff / singularity / intelligence explosion / timelines。
 
@@ -18,6 +18,7 @@
 | [06-pdoom-decomposition.md](06-pdoom-decomposition.md) | p(doom) 灾难通道分解：12% ＝ 错齐 7.0 + 生物滥用 2.5 + AI 战争 1.5 + 渐进失权 0.7 + 其他 0.3（pp）；起飞形态→条件 p(doom) 桥表；外部锚（Ord 总表、Carlsmith、掌门人新引、Metaculus 直查） |
 | [07-reading-log.md](07-reading-log.md) | 阅读日志：外部文章三级分诊吸收（可证伪→ledger EXT／世界观位移→日志／纯好文→不收），协议见根目录 AGENTS.md |
 | [beyond-lesswrong.md](beyond-lesswrong.md) | LW 之外全景：实验室掌门人、学界调查、经济学争论、预测平台、政策、中国视角、泡沫框架 |
+| [08-sources-index.md](08-sources-index.md) | 信源索引：按功能分层的追踪清单（预测清算／仪表盘／一手表态／分析话语／中文）＋跨目录集中登记＋观察级与不收名单；watch 双刊与季度校准的输入清单 |
 
 ## 一句话总览
 
