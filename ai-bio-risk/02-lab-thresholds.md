@@ -39,6 +39,11 @@
 | 2026 年 | GPT-5.5/5.6 延续"treated as High…below Critical"（deploymentsafety.openai.com） | 常态化 |
 | 2026-08-07 | Anthropic 发布"Improving Fable 5's biology safeguards"（标题经官网新闻列表核实，内容待读） | 部署后加固 |
 | 2026-09-10 | **Anthropic 威胁情报报告**（覆盖 2025-12~2026-08）：披露阻断多起生物滥用图谋；NYT 报道其承认"could not always determine whether the research was legitimate or nefarious"（NYT/BBC，高可信度） | 首个公开的部署后滥用尝试数据流 |
+| 2026-09-03 | **GPT-6 Astra 系统卡**：生物域仍按 High 处理（未实测越线）；同卡网络域实测 Critical——"网络先行、生物悬置"错位延续（[deploymentsafety.openai.com/gpt-6-astra](https://deploymentsafety.openai.com/gpt-6-astra)，一手 [高]）（2026-10-01 季度回顾追加） | 预防性归类延续＋跨域对照 |
+| 2026-09-10 | **威胁报告门槛话术位移**：首次书面承认"旧模型远低于能有意义协助生物武器开发的门槛，对新模型这不再是确定性"；披露 **5 起**生物滥用图谋（2025-12~2026-08，≈0.56 起/月；含军事研究所关联科学家请 Claude 起草基孔肯雅病毒 GoF 基金申请，已移交执法；5 起均无法确认恶意意图）（[anthropic.com/threat-intelligence-report-september-2026](https://www.anthropic.com/threat-intelligence-report-september-2026) [高]）（2026-10-01 季度回顾追加） | 门槛话术位移＋披露流计数基线建立 |
+| 2026-09-14 | **SecureBio 第二次 OpenAI 预发布评估（GPT-6 Astra）**：VCT 322 题口径 ≈57.8%（双创新高，距 60% 警报线 2.2pp）；首个生成满足 in silico 可设计性阈值的 de novo 蛋白设计；railfree 版首个 ASE 满分；BioTIER 拒答率 82.9%（[securebio.org/blog/gpt-6-astra-pre-release-testing-report](https://securebio.org/blog/gpt-6-astra-pre-release-testing-report/) [高]）（2026-10-01 季度回顾追加） | 独立预发布评估覆盖扩张（1 家 2 次） |
+| 2026-09-22 | **Claude Opus 5.5 系统卡**：CB-1 非 CB-2（未越线）；VCT 自测 350 题口径 0.59（与 SecureBio 322 题口径题集不同，不可互比）；同时披露两项方法学弃用——弃用 DNA 筛查规避评估、CB 评估停用 helpful-only 变体（收缩点，持续盯）（[anthropic.com](https://www.anthropic.com) 系统卡，一手 [高]）（2026-10-01 季度回顾追加） | 未越线＋方法学收缩 |
+| 2026-09-29 | **Claude Sonnet 5.5 系统卡**：CB-1 非 CB-2（未越线）（[anthropic.com](https://www.anthropic.com) 系统卡，一手 [高]）（2026-10-01 季度回顾追加） | 未越线 |
 
 **对照锚点（本仓库时间线）**：PF 的 Critical 档已被网络域**实触及**（GPT-6 Astra，2026-09-03，见 [watch/capability 第二期](../watch/capability/2026-09-09-ai-timeline-watch.md)）——生物域目前最高到"预防性按 High 处理"，**尚无任何实验室披露实测越过生物 Critical/ASL-4**。这条"网络先行、生物悬置"的错位是 CHK 设计的直接素材。
 
