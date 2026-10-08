@@ -51,8 +51,9 @@
 - 结构与成本：多层 DDTL（GPU+客户合同抵押）+ 优先债 + 可转债；早期私募信贷定价 10–15%，2026-03 的 DDTL 4.0（$8.5B）为首个获 IG 评级的 GPU 抵押贷（Moody's A3/DBRS A low，SOFR+225bp、~5.9% 固定，2032 到期，Blackstone 锚定）[中, [Sascha Steffen, 2026-08-14](https://www.sascha-steffen.de/updates/nvidia-500bn-ai-financing-credit-risk)；[低-中, Peony, 2026-08-19](https://www.peony.ink/blog/neocloud-capital-raise)]。Q2'26 利息费用 $640M（上年同期 $267M），年化 ~$2.6B [低-中, [CCIR, 2026-08-12](https://ccir.io/research/two-order-books)]。抵押品是贬值中的 GPU——这是第一层里评级与真实风险差距最大的部分。
 - 另有经营性租赁负债 $10.1B（2026-03-31，非 GPU 固定义务）[低-中, [Milvern 引 10-Q, 2026-05-16](https://milvern.com/analysis/detail?ticker=CRWV)]。
 
-**xAI**
-- 2026 年初发行 ~$5B 债券+贷款补充现金；WSJ 估算 Colossus 2 仅芯片采购就需 $18B [中, [EnergyNow/Bloomberg, 2026-02](https://energynow.com/2026/02/the-3-trillion-ai-data-center-build-out-becomes-all-consuming-for-debt-markets/)；[WSJ, 2025-11-11](https://www.wsj.com/tech/ai/three-ai-megadeals-are-breaking-new-ground-on-wall-street-896e0023)]。私人公司，披露不全，实际杠杆高于可见值。
+**xAI（2026-10-03 更正：现为 SpaceX 分部）**
+- 2026 年初发行 ~$5B 债券+贷款补充现金；WSJ 估算 Colossus 2 仅芯片采购就需 $18B [中, [EnergyNow/Bloomberg, 2026-02](https://energynow.com/2026/02/the-3-trillion-ai-data-center-build-out-becomes-all-consuming-for-debt-markets/)；[WSJ, 2025-11-11](https://www.wsj.com/tech/ai/three-ai-megadeals-are-breaking-new-ground-on-wall-street-896e0023)]。
+- **结构更正（2026-10-03）**：2026-02-02 SpaceX 全股票收购 xAI（合并体 $1.25T，xAI 作价 $250B），xAI 成为 "SpaceXAI" 事业部、不再独立存在；SpaceX 已于 **2026-06-12 以 SPCX 在纳斯达克上市**（发行价 $135、募资 ~$750 亿，史上最大 IPO；S-1 披露 Q1 2026 净亏 $42.8 亿、2025 营收 ~$187 亿）[高, [财新, 2026-06-04](https://finance.caixin.com/2026-06-04/102450867.html?originReferrer=kimi)；[财新, 2026-05-21](https://database.caixin.com/2026-05-21/102446037.html?originReferrer=kimi)]。上市后一个月即破发（较 $135 发行价，[TradingKey, 2026-10-02 [中]](https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262037837-nvda-spacex-musk-spcx-sndk-tradingkey)）。原"私人公司、披露不全"的判断修正为：S-1 仅合并口径，SpaceXAI 分部收支与债务不单独披露——**上市公司外壳下的分部黑箱**；债务已并入 SPCX 合并报表，脆弱性载体从"一级市场续融"转为"SPCX 股价与股权融资窗口"。
 
 ### 1.3 "$1.2T 成 IG 最大板块"的构成分解
 
