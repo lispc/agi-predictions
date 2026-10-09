@@ -25,7 +25,7 @@
 | 2024 | RAND 红队（RRA2977-2 等） | LLM 组 vs 仅互联网组 | 攻击计划质量无可测差异 | 反 |
 | 2025-04 | SecureBio/CAIS **VCT**（arXiv:2504.16137） | 322 题病毒学排障"隐性知识" | **o3 达 43.8%，超 94% 专家百分位**（专家基线 22.1%） | 正 |
 | 2025-06 | Brent & McKelvey（RAND WR-A3853-1，arXiv:2506.13798） | 方法论批评＋实测 | 挑战"默会知识屏障"前提：主流商业模型已能就高后果病原体重建类任务提供准确逐步文字指导，既有评估系统性低估风险 | 正 |
-| 2026 | Zhang et al.（预印本） | 57 名新手，数字生物学任务 | 答对几率比 OR≈4.16 | 正 |
+| 2026 | Zhang et al.（预印本） | 57 名新手，数字生物学任务 | 答对几率比 OR≈4.16；**SoAI 2026 slide 216 转述细节**（2026-10-09 补）：8 组数字任务（最长 13h）、有专家基线的 4 个基准上 AI 组 30.4% vs 仅搜索组 9.7%、全任务统计校正后 ~5%→>17%、未测湿实验 | 正 |
 | 2026 | Hong et al.（RCT） | 完整物理工作流 | 完成率**无显著提升**——首个物理端零结果 | 反 |
 | 2026-08 | RAND 再分析（26 基准/45 模型） | 荟萃 | 易题饱和；**基准分不能预测湿实验滥用** | 方法论 |
 
@@ -104,3 +104,4 @@
 - https://www.aisi.gov.uk/frontier-ai-trends-report （UK AISI 趋势报告，5 倍协议撰写口径）
 - https://ibbis.bio/our-work/common-mechanism/ ；https://www.nature.com/articles/d41586-025-03230-1 （IBBIS/Nature）
 - https://www.reuters.com/business/healthcare-pharmaceuticals/lilly-partners-with-openai-develop-medicines-drug-resistant-bacteria-2024-06-25/ （Lilly-OpenAI）
+- https://www.stateof.ai/State-of-AI-Report-2026.pdf （slide 216：Zhang et al. 57 人 RCT 的二手转述细节，2026-10-09 补录）
