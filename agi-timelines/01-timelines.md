@@ -31,7 +31,7 @@
 - **2025-12**：配套模型大修（见第 2 节），自动化程序员中位数推迟 3–5 年，部分原因是披露了一个约 9 个月的模拟代码 bug（https://ai-2027.com/research/timelines-forecast ）。
 - **2026-04**：又把时间线移回更早。
 - **2026-07**：发布后续《AI 2040: Plan A》，从预测转向策略主张。
-- 团队维护着跟踪页：https://ai-2027.com/research/how-is-ai-2027-going
+- 团队维护着跟踪页：https://ai-2027.com/research/how-is-ai-2027-going ——**2026-10-10 更正：此链接 404 且从未存在（Wayback CDX 核验）**。实际跟踪载体＝官方年度评分系列（首篇 Kokotajlo & Lifland《Grading AI 2027's 2025 Predictions》，2026-02-12，blog.ai-futures.org）＋ ai-2027.com changelog；第三方逐条评分见 [08](08-sources-index.md) 收录的 AI 2027 Tracker；算力维度专项核对见 `watch/capability/2026-10-10-ai2027-compute-check.md`。
 
 一句话：这份场景不是一次性宣言，而是一个**持续校准的活文档**——这既是它的可信度来源（作者真的在乎对错），也是"预测↔叙事"边界的提醒（每次修订都会重新设定公众预期）。
 
